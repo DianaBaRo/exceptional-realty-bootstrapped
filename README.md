@@ -2,4 +2,4 @@
 
 This is an example website using the Twitter Bootstrap v4 framework.
 More information on using Bootstrap can be found at:
-[GetBootstrap.com](hhtp://getbootstrap.com)
+[GetBootstrap.com](http://getbootstrap.com)
